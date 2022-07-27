@@ -27,7 +27,10 @@ header = {
 
 def post_image(id :int):
     r = requests.post(f"https://discord.com/api/v9/channels/{id}/messages", data=payload, headers=header)
+    print("Message Sent Successfully!")
 
 
 
 post_image(id)
+
+input("Press ENTER to exit.")
