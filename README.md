@@ -1,4 +1,3 @@
-# Python-Messenger
 
 
 <h1 align='center'> Simple Python Messenger for discord</h1>
