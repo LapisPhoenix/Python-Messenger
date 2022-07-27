@@ -7,3 +7,7 @@
 
 <h1 align='center'> Project Ideas </h1>
 <p align='center'> -Send an image to one of your friends everyday <br> -Send a message to a chat to welcome someone yourself <br> </p>
+
+<br>
+
+<h2 align='center'> This app is free to use! If you use my code please link this github </h2>
